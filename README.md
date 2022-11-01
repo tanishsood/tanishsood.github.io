@@ -1,1 +1,0 @@
-# tanishsood.github.io
