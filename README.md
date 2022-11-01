@@ -60,23 +60,23 @@ We will be using Jekyll to host our static website. Follow the instruction below
 #### 2. Installing Jekyll
 * To install Jekyll click here [Jekyll](https://jekyllrb.com/).
 * Now open command prompt from windows start menu.
-* Type "gem install bundler jekyll" for reference you can look at quick start instructions from the above link.
-* Now to confirm if jekyll is installed type "jekyll -v". You should see the version of the jekyll which confirms that it is install on your device otherwise you will get an error if not installed.
+* Type `gem install bundler jekyll` for reference you can look at quick start instructions from the above link.
+* Now to confirm if jekyll is installed type `jekyll -v`. You should see the version of the jekyll which confirms that it is install on your device otherwise you will get an error if not installed.
 
 #### 3. Clone GitHub
-* Open command prompt and type "git clone https://github.com/[YourGitHubUsername]/[YourGitHubUsername].github.io".
+* Open command prompt and type `git clone https://github.com/[YourGitHubUsername]/[YourGitHubUsername].github.io`.
 
 #### 4. Creating Website
-* On command prompt open the cloned directory by typing "cd[YourGitHubUsername].github.io".
-* Now to initialize the website, type "jekyll new[ChooseAnyNameForYOurWebsite]" in command prompt.
-* Switch to your website directory by using command "cd[YourWebsiteName]".
-* Now you need to install webrick bundle by typing "bundle add webrick" command first and then typing "install bundle" command in command prompt.
-* Now to open the website, which you just created, in command prompt type "bundle exec jekyll serve" command.
+* On command prompt open the cloned directory by typing `cd[YourGitHubUsername].github.io`.
+* Now to initialize the website, type `jekyll new[ChooseAnyNameForYOurWebsite]` in command prompt.
+* Switch to your website directory by using command `cd[YourWebsiteName]`.
+* Now you need to install webrick bundle by typing `bundle add webrick` command first and then typing `install bundle` command in command prompt.
+* Now to open the website, which you just created, in command prompt type `bundle exec jekyll serve` command.
 * To view your website, in your browser search "https://loaclhost:4000".
 * Now push the required files using Git desktop application or by typing these commands in command prompt:
-    * git add --all 
-    * git commit -m "YourCommitMessage" 
-    * git push -u origin main
+    * `git add --all` 
+    * `git commit -m "YourCommitMessage"` 
+    * `git push -u origin main`
 *  To view your website open "https://[YourGitHubUsername].github.io" in your browser.
 
 #### This is how your website should look like.
