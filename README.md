@@ -31,8 +31,9 @@ After creating an account or if you already have an account on GitHub, follow th
 * Click on your profile picture.
 * Now from the dropdown menu choose your repositories.
 * Click on the new button in green colour.
-
+![](2.png)
 * Fill out the the name for your repository and select public.
+![](3.png)
 * Click on Create Repository button in green.
 * Click on addfile and from drop down menu select upload files.
 * Now you can either drag or choose your markdown formatted resume file.
