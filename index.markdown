@@ -1,4 +1,8 @@
-# **Tanish Sood**
+---
+layout: post
+title: Tanish Sood
+---
+---
 +1 (431) 567-5875 \
 soodt@myumnaitoba.ca \
 [GitHub](https://github.com/tanishsood) \
