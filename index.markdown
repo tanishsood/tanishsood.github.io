@@ -16,7 +16,7 @@ Bachelor of Science - Computer Science Major
 University Of Manitoba | Expected: April 2023						
 								 
 
-## ***TECHNICAL SKILLS***
+## ***Technical Skills***
 
 ---
 
@@ -48,7 +48,7 @@ Mid-Sept.,2019 - Mid-Oct.,2019
 * Verbatim reading of the wording of pre-established questions and the response choices displayed on screen.
 * Computer data entry of responses provided by respondents.
 
-## ***PROJECTS***
+## ***Projects***
 
 ---
 
