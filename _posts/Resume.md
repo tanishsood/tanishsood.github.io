@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Resume"
+date:   2022-11-01 16:01:09 -0500
+categories: jekyll update
+---
 # **Tanish Sood**
 +1 (431) 567-5875 \
 soodt@myumnaitoba.ca \

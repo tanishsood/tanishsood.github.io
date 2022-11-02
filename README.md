@@ -11,7 +11,7 @@ The only prerequisite is a resume fromatted in markdown. To create a resume in m
 ## **Instructions**
 ---
 ### **Use Lightweight Markup Language**
-
+According to Andrew Etter, one of the tenets of modern technical writing is that everyone is a contributer. And one of the main disadvantages of storing content directly in XML-based languages is that it limits people's ability to contribute.  
 ### **Using Distributed Version Control to upload documents** 
 According to Andrew Etter, version control systems are designed for software development, each and every one of them is overkill for the typical documentation workflow. The benefits of using distributed version control sysytems are:
 * These have better performance.
