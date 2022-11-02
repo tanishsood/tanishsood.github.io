@@ -94,7 +94,7 @@ We will be using Jekyll to host our static website. Follow the instruction below
 -----------------------
 1. This [Markdown Tutorial](https://www.markdowntutorial.com/) is a great resource for learning markdown.
 2. Andrew Etter's Modern Technical is a great read for understanding the concepts of technical writing. You can find [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) on Amazon.
-3. This [Git Tutorial](https://www.w3schools.com/git/) helped me understand Git. It is very thorough and goes very in depth
+3. This [Git Tutorial](https://www.w3schools.com/git/) helped me understand Git. It is very thorough and goes very in depth.
 
 ## **Authors and Acknowledgments**
 ---
