@@ -11,36 +11,35 @@ The only prerequisite is a resume fromatted in markdown. To create a resume in m
 ## **Instructions**
 ---
 ### **Use Lightweight Markup Language**
-According to Andrew Etter, one of the tenets of modern technical writing is that everyone is a contributer. And one of the main disadvantages of storing content directly in XML-based languages is that it limits people's ability to contribute.  
+According to Andrew Etter, one of the tenets of modern technical writing is that everyone is a contributer. And one of the main disadvantages of storing content directly in XML-based languages is that it limits people's ability to contribute. This is where lightweight markup languges excel.
+
+Markdown is the most widely used lightweight markup language and has the cleanest syntax. The most popular is GitHub Flavoured Markdown. He also suggests that some of the best text editors are MarkdownPad, iA Writer and ReText.  
 ### **Using Distributed Version Control to upload documents** 
 According to Andrew Etter, version control systems are designed for software development, each and every one of them is overkill for the typical documentation workflow. The benefits of using distributed version control sysytems are:
 * These have better performance.
 * These allow for offline work.
 * These are way superior for concurrent work on the same file.
 
-In terms of documentation, Andrew Etter suggests to store the documentation in the same repository as its corresponding product source code. The Readme.md should always be placed in root of the repository.The pros and cons in doing so are:
-#### Pros:
-* Documentation and code branches stay in sync.
-* Developers are more likely to contribute.
-#### Cons:
-* Checking out a large entire repositoty can dramatically slow down documentation builds.
+In terms of documentation, Andrew Etter suggests to store the documentation in the same repository as its corresponding product source code. The Readme.md should always be placed in root of the repository.
 
 The Readme.md should include a quick summary of documented product, and  instructions on building documentation locally and on how to contribute.
 
-We will use GitHub to host our Resume.md. The first step is to have an account on GitHub, if you are not already signed up, you can signup [here](https://github.com/signup?source=login).
+We will use GitHub to host our Resume.md. 
+### Begin:
+* The first step is to have an account on GitHub, if you are not already signed up, you can signup [here](https://github.com/signup?source=login).
 
-After creating an account or if you already have an account on GitHub, follow the instructions below to upload your markdown formatted resume:
-* Click on your profile picture.
-* Now from the dropdown menu choose your repositories.
-* Click on the new button in green colour.
-![](2.png)
-* Fill out the the name for your repository and select public.
-![](3.png)
-* Click on Create Repository button in green.
-* Click on addfile and from drop down menu select upload files.
-![](4.png)
-* Now you can either drag or choose your markdown formatted resume file.
-* Click on commit changes button in green.
+* After creating an account or if you already have an account on GitHub, follow the instructions below to upload your markdown formatted resume:
+    * Click on your profile picture.
+    * Now from the dropdown menu choose your repositories.
+    * Click on the new button in green colour.
+    ![](2.png)
+    * Fill out the the name for your repository and select public.
+    ![](3.png)
+    * Click on Create Repository button in green.
+    * Click on addfile and from drop down menu select upload files.
+    ![](4.png)
+    * Now you can either drag or choose your markdown formatted resume file.
+    * Click on commit changes button in green.
 
 ### **Hosting a static website**
 Andrew Etter, the author of the book Modern Technical Writing havs an irrational bias towards static websites. The advantages that he states are:
@@ -87,7 +86,7 @@ We will be using Jekyll to host our static website. Follow the instruction below
     * `git push -u origin main`
 *  To view your website open "https://[YourGitHubUsername].github.io" in your browser.
 
-#### This is how your website should look like.
+#### This is how your website would look like.
 \
 ![Resume](Resume.gif)
 
