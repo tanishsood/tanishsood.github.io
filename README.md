@@ -36,6 +36,7 @@ After creating an account or if you already have an account on GitHub, follow th
 ![](3.png)
 * Click on Create Repository button in green.
 * Click on addfile and from drop down menu select upload files.
+![](4.png)
 * Now you can either drag or choose your markdown formatted resume file.
 * Click on commit changes button in green.
 
@@ -55,13 +56,16 @@ We will be using Jekyll to host our static website. Follow the instruction below
 #### 1. Installing Ruby
 *  To install Ruby click here [Ruby](https://www.ruby-lang.org/en/downloads/).
 * Now under Ways of Installing Ruby click on RubyInstaller for Windows machines.
+![](5.png)
 * Click on the big red download button.
+![](6.png)
 * Click on the first link named "=>Ruby+Devkit 3.1.2-1(x64)" under WITH DEVKIT.
 * Once the installation is done complete the setup.
 
 #### 2. Installing Jekyll
 * To install Jekyll click here [Jekyll](https://jekyllrb.com/).
 * Now open command prompt from windows start menu.
+![](7.png)
 * Type `gem install bundler jekyll` for reference you can look at quick start instructions from the above link.
 * Now to confirm if jekyll is installed type `jekyll -v`. You should see the version of the jekyll which confirms that it is install on your device otherwise you will get an error if not installed.
 
